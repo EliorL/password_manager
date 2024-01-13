@@ -33,5 +33,5 @@ Copy to Clipboard:
 
 Click "Copy to Clipboard" to copy the password to the clipboard for easy login.
 
-How to Run
+How to Run:
 Ensure you have Python installed on your system.
