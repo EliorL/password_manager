@@ -9,7 +9,8 @@ Execute the script main.py to launch the Tkinter GUI.
 #### Features:
 
 - Generate Strong Passwords: Utilize the password generator to create secure password.
-- Save Passwords: Easily save website credentials, including the username, URL and generated password to a JSON file.
+- Save Passwords: Easily save website credentials, including the username,
+  URL and generated password to a JSON file.
 - Retrieve Passwords: Retrieve stored passwords and view them in the application for quick access.
 - Copy to Clipboard: Conveniently copy passwords to the clipboard for seamless login.
   
