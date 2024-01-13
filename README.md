@@ -1,4 +1,4 @@
-#### Website Password Manager with Tkinter:
+## Website Password Manager with Tkinter:
 This application provides a user-friendly interface to manage and generate strong passwords for different websites. 
 Passwords are stored in a JSON file.
 
