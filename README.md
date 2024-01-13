@@ -28,7 +28,7 @@ Fill in the website details, including the username and URL.
 Click "Save" to store the credentials securely in the JSON file.
 Retrieve Password:
 
-Select a website from the list and click "Search" to display the stored username and password.
+Write the name of a website and click "Search" to display the stored username and password.
 Copy to Clipboard:
 
 Click "Copy to Clipboard" to copy the password to the clipboard for easy login.
