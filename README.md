@@ -1,8 +1,12 @@
-#### Website Password Manager with Tkinter
+#### Website Password Manager with Tkinter:
 This application provides a user-friendly interface to manage and generate strong passwords for different websites. 
 Passwords are stored in a JSON file.
 
-#### Features
+#### Features:
+#### Run the Application:
+
+Execute the script main.py to launch the Tkinter GUI.
+
 #### Generate Strong Passwords:
 
 Utilize the password generator to create secure password.
@@ -17,9 +21,7 @@ Retrieve stored passwords and view them in the application for quick access.
 
 Conveniently copy passwords to the clipboard for seamless login.
 Usage
-#### Run the Application:
 
-Execute the script main.py to launch the Tkinter GUI.
 Generate Password:
 
 #### Save Credentials:
