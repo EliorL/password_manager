@@ -14,4 +14,4 @@ Execute the script main.py to launch the Tkinter GUI.
 - Copy to Clipboard: Conveniently copy passwords to the clipboard for seamless login.
   
 #### How to Run:
-Ensure you have Python installed on your system.
+Ensure you have Python installed on your system and tkinter module.
